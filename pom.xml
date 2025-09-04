@@ -8,7 +8,7 @@
     <groupId>com.dsm.agriculture</groupId>
     <artifactId>dsm-agriculture</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>D.S.M Agriculture</name>
     <description>This is the D.S.M Agriculture web application useful for farming purposes</description>
